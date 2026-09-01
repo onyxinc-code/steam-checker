@@ -1,0 +1,6 @@
+proxy_cache.json
+node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+    "name": "nixly/steam-checker",
+    "description": "Web tabanlı Steam hesap checker - Proxyless mod, GitHub proxy desteği",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nixly"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-bcmath": "*",
+        "ext-session": "*"
+    }
+}
