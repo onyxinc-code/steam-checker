@@ -458,7 +458,7 @@ if (file_exists(PROXY_CACHE_FILE)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nixly Steam Checker</title>
+    <title>onyxinc Steam Checker</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
     <link href="assets/style.css" rel="stylesheet">
 </head>
@@ -466,14 +466,14 @@ if (file_exists(PROXY_CACHE_FILE)) {
     <header class="header">
         <div class="header-left">
             <div class="logo-icon">⚡</div>
-            <div class="logo-text">Nixly<span>Steam</span> Checker</div>
+            <div class="logo-text">onyxinc<span>Steam</span> Checker</div>
         </div>
         <div class="header-right">
             <div class="proxy-badge">
                 <span class="dot"></span>
                 <span id="proxyCount"><?php echo $proxy_count; ?> proxy</span>
             </div>
-            <div class="dev-badge">Developer: Nixly</div>
+            <div class="dev-badge">Developer: onyxinc</div>
         </div>
     </header>
     
@@ -608,9 +608,9 @@ if (file_exists(PROXY_CACHE_FILE)) {
                 <div class="card">
                     <div class="card-title"><span class="icon">ℹ️</span> Hakkında</div>
                     <div style="font-size: 13px; color: var(--muted); line-height: 1.8;">
-                        <strong style="color: var(--accent);">Nixly Steam Checker</strong><br>
+                        <strong style="color: var(--accent);">onyxinc Steam Checker</strong><br>
                         Steam hesap checker web uygulaması<br>
-                        Developer: <strong style="color: var(--text);">Nixly</strong><br>
+                        Developer: <strong style="color: var(--text);">onyxinc</strong><br>
                         Versiyon: 1.0.0<br>
                         Proxyless: ✅ Desteklenir<br>
                         GitHub Proxy: ✅ Otomatik

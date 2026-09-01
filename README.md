@@ -1,4 +1,4 @@
-# Nixly Steam Checker
+# onyxinc Steam Checker
 
 Web tabanlı Steam hesap checker - Proxyless mod destekli, GitHub proxyler otomatik alınır.
 
@@ -67,7 +67,7 @@ action=get_proxies&csrf=TOKEN
 ## Proje Yapısı
 
 ```
-nixly-steam-checker/
+onyxinc-steam-checker/
 ├── index.php          # Ana PHP dosyası (backend + frontend)
 ├── assets/
 │   ├── style.css      # CSS stilleri
@@ -87,4 +87,4 @@ Bu araç yalnızca eğitim amaçlıdır. Steam'in Hizmet Şartlarını ihlal ede
 
 ## Developer
 
-**Nixly**
+**onyxinc**
