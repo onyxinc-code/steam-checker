@@ -25,8 +25,8 @@ Web tabanlı Steam hesap checker - Proxyless mod destekli, GitHub proxyler otoma
 
 1. Repoyu klonla:
 ```bash
-git clone https://github.com/KULLANICIADI/nixly-steam-checker.git
-cd nixly-steam-checker
+git clone https://github.com/onyxinc-code/steam-checker.git
+cd steam-checker
 ```
 
 2. Web sunucusunda `index.php`'nin bulunduğu dizine yerleştir
